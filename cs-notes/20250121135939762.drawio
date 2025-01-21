@@ -1,0 +1,77 @@
+<mxfile host="Electron" modified="2024-11-02T13:36:46.673Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) draw.io/24.6.4 Chrome/124.0.6367.207 Electron/30.0.6 Safari/537.36" etag="o9A3lZ1rJxl6lQ0dMbDq" version="24.6.4" type="device">
+  <diagram name="第 1 页" id="XsR3ncLrPXC3dTy0FcWf">
+    <mxGraphModel dx="1050" dy="629" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="eTRO4MFrA25dJpU8meaL-3" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-2" target="eTRO4MFrA25dJpU8meaL-1" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-2" value="Map" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="414" y="260" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-18" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-4" target="FKfBZnsISCD7llRRQSE3-15" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-20" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-4" target="FKfBZnsISCD7llRRQSE3-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-25" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-4" target="FKfBZnsISCD7llRRQSE3-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-4" value="AbstractMap" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
+          <mxGeometry x="414" y="400" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-12" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-2" target="FKfBZnsISCD7llRRQSE3-4" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-14" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-2" target="FKfBZnsISCD7llRRQSE3-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="580" y="350" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-21" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-13" target="FKfBZnsISCD7llRRQSE3-17" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-26" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-13" target="FKfBZnsISCD7llRRQSE3-22" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-13" value="SortedMap&lt;br&gt;支持排序" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+          <mxGeometry x="680" y="400" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-19" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-15" target="FKfBZnsISCD7llRRQSE3-16" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-15" value="HashMap&lt;br&gt;基于哈希表实现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="359" y="550" width="108.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-16" value="Linked&lt;span style=&quot;background-color: initial;&quot;&gt;HashMap&lt;br&gt;HashMap + 双向链表&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="339.25" y="660" width="148" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-17" value="TreeMap&lt;br&gt;基于红黑树实现" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="490" y="550" width="110" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-22" value="ConcurrentSkipListMap&lt;br&gt;JUC，基于跳表实现，线程安全" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="640" y="550" width="190" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-23" value="ConcurrentHashMap&lt;br&gt;JUC，&lt;span style=&quot;background-color: initial;&quot;&gt;线程安全&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="190.25" y="550" width="140" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="FKfBZnsISCD7llRRQSE3-24" style="edgeStyle=none;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.445;entryY=0.02;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="FKfBZnsISCD7llRRQSE3-4" target="FKfBZnsISCD7llRRQSE3-23" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTRO4MFrA25dJpU8meaL-4" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="eTRO4MFrA25dJpU8meaL-1" target="eTRO4MFrA25dJpU8meaL-2" edge="1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="eTRO4MFrA25dJpU8meaL-1" value="Hashtable&lt;br&gt;线程安全" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="55" y="400" width="100" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="eTRO4MFrA25dJpU8meaL-2" value="Properties&lt;br&gt;读写配置文件" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" parent="1" vertex="1">
+          <mxGeometry x="50" y="550" width="110" height="60" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
